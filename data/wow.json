@@ -1,0 +1,15 @@
+{
+    "routes": [
+        {
+            "title": "SafeArea",
+            "route": "1_SafeArea",
+            "img": "assets/img/1.png",
+            "urlVideo": "https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2",
+            "urlDocumentation": "https://api.flutter.dev/flutter/widgets/SafeArea-class.html",
+            "tags": [
+                "SafeArea",
+                "1"
+            ]
+        }
+    ]
+}
